@@ -1,5 +1,6 @@
 🤖 Projet Machine Learning – Maladies Respiratoires
-📌 Description
+
+ Description
 
 Réalisation d’un projet de Machine Learning dédié à l’analyse et à la classification des maladies respiratoires à partir de données médicales sous forme tabulaire.
 
